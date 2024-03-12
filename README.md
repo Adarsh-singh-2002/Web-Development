@@ -1,6 +1,7 @@
 # Web-Development
 
-![OIP](https://github.com/Adarsh-singh-2002/Web-Development/assets/98600091/c6c73064-ddbb-40ff-97dc-6d162bdeb866)
+![OIP](https://github.com/Adarsh-singh-2002/Web-Development/assets/98600091/c6c73064-ddbb-40ff-97dc-6d162bdeb866) ![OGC](https://github.com/Adarsh-singh-2002/Web-Development/assets/98600091/252b9119-e6af-401c-85a3-b7ecbb16304f)
+
 
 ![R](https://github.com/Adarsh-singh-2002/Web-Development/assets/98600091/588592e3-f811-4215-89ab-a253400a5d59)
 
