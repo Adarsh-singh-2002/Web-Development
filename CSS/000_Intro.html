@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .internal{
+            color: green;
+        }
+
+    </style>
+    <link rel="stylesheet" href="/CSS/000_Intro.css">
+</head>
+<body>
+    <ul>
+        Ways to add CSS 
+        <li style="color: red;">Inline CSS </li>
+        <li class="internal">Internal CSS</li>
+        <li class=" external">External CSS</li>
+    </ul>
+
+    <h3>Syntax</h3>
+    <p>selector1, selector2.selector2_child {
+        <br>
+        characteristics:value;
+        <br>
+        characteristics:value;
+        <br>
+    }
+    </p>
+    <p>
+        priority of css implementation
+        <br>
+        !important > InlineCSS > InternalCSS > ExternalCSS
+        <br>
+        !important takes up the highest precendence. If we have some color assigned in externalCSS and want it to override the inlineCSS we could add !important at the end of the characteristics.
+        <br>
+        Here, we need to know one thing that in the internal and external css the one which is loaded at last would have the higher precedence.
+        <br>
+        Also if multiple style files are included than also the one loaded last would have the higher precedence.
+    </p>
+    <p>
+        <h2>Types of CSS selectors </h2>
+        <ul>
+            <li>CSS element selector</li>
+            <li id="id_selector">CSS ID selector</li>
+            <li class="class_selector">CSS class selector</li>
+            <li>CSS grouping selector</li>
+        </ul>
+    </p>
+    <h5>group selector</h5>
+    <h6>group selector</h6>
+
+    <p>using developer tools is awesome as you could easily manipulate the view for a temporary basis. you just need to right click and go to inspect.</p>
+
+    
+</body>
+</html>

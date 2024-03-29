@@ -20,3 +20,44 @@ git add .
 git commit -m 
 
 git push origin head <!--  to push the changes to the selected or working brach  -->
+
+#HTML
+
+>Hello world 
+
+>Title Manipulation
+
+>Meta Tags
+
+>Tags
+
+>Image and anchor tag
+
+>List and Tables
+
+>Form and Input Tag
+
+>Inline and Block elements
+
+>ID and Classes
+
+>Entities
+
+>Sementic Tags
+
+#CSS
+
+> Introduction to css
+
+> fonts, colors, border, background
+
+> Box Model - padding, border, margin
+
+> float, clear
+
+> styling buttons, :hover, :active, :visited
+
+> display, inline, block, 
+
+> Position, absolute, relative, fixed, sticky
+

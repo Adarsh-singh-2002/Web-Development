@@ -1,0 +1,40 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.class1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px; /*1/96 th of an inch*/
+    font-weight: bold;
+    font-style: italic;
+    line-height: 5.3em;
+}
+
+.class2{
+    color:greenyellow;
+}
+.class3{
+    color:rgb(16, 88, 160);
+}
+.class4{
+    color: #25bbda;
+    background-color: red;
+    border-color: blueviolet;
+}
+
+h3{
+    background-color: aqua;
+    height: 100px;
+    width: 400px;
+    border-width: 10px;
+    border-color: blue;
+    border-style: dotted;
+    border-radius: 34%;
+    /* border: 5px solid yellow;  */ 
+
+
+    background-repeat: ;
+    background-position: ;
+    
+
+}

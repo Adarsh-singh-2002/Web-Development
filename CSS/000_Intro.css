@@ -1,0 +1,29 @@
+.external{
+    color: blue;
+}
+
+/* we would do the element selector */
+
+h2{
+    color: chartreuse;
+}
+
+/* we would do the id selector. In id selector before the selector name we would write a # symbol to signify it as a id selector */
+#id_selector{
+    color: cyan;
+}
+
+/* we would do the class selector. In class selector before the selector name we would write a . symbol to signify it as a class selector */
+
+.class_selector{
+    color: magenta;
+}
+
+/* we would do the group selector. In group selector we could give the characteristics to multiple selector by sepearating them by a comma , */
+
+h5,h6{
+    color: aquamarine;
+}
+
+/* we can also select a specific tag by navigating through parent and child classes */
+
